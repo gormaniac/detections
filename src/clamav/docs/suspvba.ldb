@@ -1,0 +1,2 @@
+# Looks for suspicious VBA strings in an OLE document - work in progress!
+Doc.Macro.Hunting.SuspiciousStringsInVBA;Target:2;0&((1&2&3)>2,2);D0CF11E0;577363726970742E5368656C6C;57696E4874747052657175657374;4D6963726F736F66742E584D4C48545450

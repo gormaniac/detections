@@ -1,0 +1,4 @@
+#!/bin/bash
+# TODO - Scan files with all engines
+
+echo "Scanning is not implemented yet!"

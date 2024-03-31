@@ -1,0 +1,2 @@
+# Looks for "curl http|https" in an OLE document
+Doc.Macro.Hunting.CurlInVBA:2:*:D0CF11E0*6375726c20(687474703a2f2f|68747470733a2f2f)
